@@ -6,6 +6,7 @@ public class test1 {
 	{
 		System.out.println("project");
 		System.out.println("modified as per projetc requirement");
+		System.out.println("modified");
 
 	}
 }
